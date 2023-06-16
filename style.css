@@ -1,0 +1,62 @@
+.a{
+    text-align: center;
+    background-color: green;
+}
+body{
+    scroll-behavior: smooth;
+}
+a{
+    font-weight: 700;
+}
+.d{
+    color: red;
+}
+.e{
+    color: orange;
+}
+.f{
+    color: yellow;
+}
+.g{
+    color: green;
+}
+.h{
+    color: rgb(45, 45, 255);
+}
+.j{
+    color: blue;
+}
+.k{
+    color: purple;
+}
+.l a{
+    background-color: green;
+    border-radius: 33%;
+    max-width: fit-content;
+    text-decoration: none;
+}
+.l a:hover{
+    background-color: greenyellow;
+}
+.n:hover{
+  margin-left: 50px;
+}
+
+.n{
+    max-width: fit-content;
+    transition:all 1s linear;
+    background-color:green ;
+    border-radius: 33%;
+    text-decoration: none;
+}
+.o{
+    background-color: purple;
+    border-radius: 10px 0px 0px 10px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.o{
+    position: fixed;
+}
+
